@@ -1,4 +1,4 @@
 export const Result = (props)=>{
-    const{result,setResult} = props
+    const{result} = props
     return <p id="result">{result}</p>
 }
